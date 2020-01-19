@@ -1,0 +1,12 @@
+Metadata-Version: 1.1
+Name: traffic-light-simulation-turtle
+Version: 0.1
+Summary: A Traffic Light Simulator works on turtle and tkinter
+Home-page: https://github.com/ramkumar2606/traffic-simulation
+Author: Rama krishna kumar Lingamgunta
+Author-email: ramkumar2606@gmail.com
+License: UNKNOWN
+Download-URL: https://github.com/ramkumar2606/traffic-simulation/archive/master.zip
+Description: UNKNOWN
+Keywords: python,traffic light simulation,example,testing
+Platform: UNKNOWN

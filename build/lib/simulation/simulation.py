@@ -102,16 +102,13 @@ class Simulation:
         print("If at any time you'd like to stop please press CTRL+C")
         print("################")
         self.red_seconds = self.request_input(input_type=int,
-                                              message="Enter No of seconds for "
-                                                      "red signal to lit:",
+                                              message="Enter No of seconds for red signal to lit:",
                                               validator=self.validate_seconds)
         self.yellow_seconds = self.request_input(input_type=int,
-                                                 message="Enter No of seconds for "
-                                                         "yellow signal to lit:",
-                                                 validator=self.validate_seconds)
+                                                 message="Enter No of seconds for yellow signal to lit:",
+                                                 validator= self.validate_seconds)
         self.green_seconds = self.request_input(input_type=int,
-                                                message="Enter No of seconds for "
-                                                        "green signal to lit:",
+                                                message="Enter No of seconds for green signal to lit:",
                                                 validator=self.validate_seconds)
         print("################")
         print("Enjoy the simulation in other window which just opened(see in your task bar)")
