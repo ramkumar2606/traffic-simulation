@@ -6,12 +6,16 @@ This project is to simulate the traffic lighting system
 2) python > 3.5.6
 
 #### Usage
-1) simply run 
+1) Install requirements
+ ```
+   pip install -r requirements.txt
+   ```
+2) simply run 
 ```
 python3 simulation\main.py
 ```
-2) Enter the values as prompted by the software
-3) After entering values check for simulation window on your taskbar
+3) Enter the values as prompted by the software
+4) After entering values check for simulation window on your taskbar
 to see the simulation
 
 ##### Future Roadmap
